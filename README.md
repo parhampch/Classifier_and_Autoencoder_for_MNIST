@@ -1,0 +1,2 @@
+# Classifier_and_Autoencoder_for_MNIST
+I implemented Gaussian Naive Bayes Classifier for MNIST dataset. I also implemented another classifier with a deep learning approach using the Pytorch framework for the MNIST dataset. For the last part, I implemented an autoencoder to generate the image of the next number of an input MNIST dataset image. The last model gets an image from the MNIST dataset as an input and generates a new image which contains the next number of the input image's number.
